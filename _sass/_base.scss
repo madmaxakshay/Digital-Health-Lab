@@ -51,9 +51,18 @@ figure {
 }
 
 .logo .svg {
-  margin-top: $space-medium;
-  margin-bottom: $space-medium;
+  margin-top: $space-small/2;
+  margin-bottom: $space-small/2;
   text-align: center;
+  svg { width: 100%; height: auto; }
+}
+
+@include responsive('min-width: #{$width-tablet}') {
+  .logo .svg {
+    margin-top: $space-medium;
+    margin-bottom: $space-medium;
+    svg { width: 80%; }
+  }
 }
 
 .logo-text {
@@ -62,9 +71,14 @@ figure {
 
 .logo-text-original {
   display: inline-block;
-  width: 40%;
   font-family: $font-stack-b;
   font-weight: normal;
-  font-size: $large-text;
   color: $dark-green;
+  width: 40%;
+}
+
+@include responsive('min-width: #{$width-tablet}') {
+  .logo-text-original {
+    font-size: $large-text;
+  }
 }

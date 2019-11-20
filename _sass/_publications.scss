@@ -1,6 +1,5 @@
 // Publications
 .publication {
-    width: $paragraph;
     margin: $space-medium auto;
     border: 2px solid $black;
     border: 2px solid $black;
@@ -8,23 +7,44 @@
     box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.3);
 }
 
+@include responsive('min-width: #{$width-tablet}') {
+    .publication { 
+        width: $paragraph;
+    }
+}
+
 .publication-text {
-    padding: 0 $space-medium $space-small;
-    height: 550px;
+    padding: 0 $space-medium/3 $space-small/3;
+    height: 420px;
     overflow: hidden;
 }
+
+@include responsive('min-width: #{$width-tablet}') {
+    .publication-text {
+        padding: 0 $space-medium $space-small;
+        height: 550px;
+    }
+}
+
+
 .publication-text.expanded {
     height: auto;
 }
 
 .publication h3 {
-    font-size: $large-text;
-    line-height: $large-line-height;
+    font-size: $medium-text;
     text-align: center;
-    width: 60%;
     margin: 0 auto;
     padding-top: $space-small;
     padding-bottom: $space-small;
+}
+
+@include responsive('min-width: #{$width-tablet}') {
+    .publication h3 { 
+        font-size: $large-text;
+        line-height: $large-line-height;
+        width: 60%;
+    }
 }
 
 .publication-read-more {
