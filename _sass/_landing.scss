@@ -19,10 +19,12 @@
 
 .page-section .p-header-container {
 	font-weight: normal;
-	margin-top: 0;
-	margin-bottom: $space-medium/2.66;
+	margin-top: $space-medium;
+	margin-bottom: $space-medium;
 	z-index: 2;
 	width: calc(100% - 60px);
+	border-top: 2px solid $dark-green;
+	border-bottom: 2px solid $dark-green;
 }
 
 .page-section .p-header-container h2 {
@@ -69,8 +71,12 @@
 .content-wrapper h2 {
 	position: relative;
 	color: $black;
-	padding: $space-small/8 $space-small $space-small/8 $space-small/4;
+	padding-top: $space-small;
+	padding-bottom: $space-small;
 	text-align: center;
+	font-family: $font-stack-b;
+	font-weight: bold;
+	font-size: $medium-text;
 }
 
 // Type
@@ -79,6 +85,7 @@
 	font-weight: normal;
 	font-size: $large-text;
 	line-height: $large-line-height;
+	text-align: center;
 }
 
 

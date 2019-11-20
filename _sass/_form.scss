@@ -45,7 +45,7 @@
 	background-color: transparent;
 	font-weight: 400;
 	font-size: 3vw;
-	color: #fff;
+	color: $black;
 	&::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
 	    color: rgba($black, 0.8);
 	    opacity: 1; /* Firefox */
