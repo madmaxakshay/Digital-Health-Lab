@@ -1,0 +1,13 @@
+---
+# Main SASS file
+---
+// English fonts
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:400,500&display=swap');
+
+// import sass files
+@import "colors.scss";
+@import "variables.scss";
+@import "mixins.scss";
+
+// Defaults
+@import "base.scss";

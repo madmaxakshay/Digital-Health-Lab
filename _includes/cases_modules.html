@@ -1,0 +1,7 @@
+{% assign module = include.module %}
+{% case module.sys.content_type_id %}
+	{% when 'moduleText' %}
+		{% include module_text.html %}	
+	{% when 'moduleLeadText' %}
+		{% include module_lead_text.html %}
+{% endcase %}

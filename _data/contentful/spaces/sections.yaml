@@ -1,0 +1,189 @@
+---
+section:
+- sys:
+    id: 3cJbsbfq2l8h2w8KrpeuNL
+    created_at: !ruby/object:DateTime 2019-11-20 02:02:24.362000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:02:24.362000000 Z
+    content_type_id: section
+    revision: 1
+  title: What We Do
+  modules:
+  - sys:
+      id: 1peWEkhBpLJbWS8vCgffUr
+      created_at: !ruby/object:DateTime 2019-11-20 02:01:42.468000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:01:42.468000000 Z
+      content_type_id: moduleLeadText
+      revision: 1
+    content: |-
+      At Meedan’s Digital Health Lab we are researching,
+      designing and testing a digital response framework for
+      addressing health misinformation online, centered around accessibility and equity.
+  - sys:
+      id: 557Ay4w3yDGNtEIWwnRahk
+      created_at: !ruby/object:DateTime 2019-11-20 02:02:19.557000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:02:19.557000000 Z
+      content_type_id: moduleText
+      revision: 1
+    title: What We Do
+    content: "We are __building a community__ of health practitioners, researchers,
+      journalists, activists and end-users actively engaged in reducing health misinformation,
+      to support fact-checking organizations and to ensure that health content online
+      is relevant and accessible.\n \nWe are hosting gatherings to __facilitate misinfodemic
+      response simulations__, preparing practitioners for complex and common digital
+      health misinformation  threats and scenarios, and co-designing new response
+      pathways. \n\nWe are __developing documentation, best practices and recommendations__
+      for responding to misinfodemics that emphasize accessibility, diversity and
+      representation in digital health response strategies, highlighting the incredible,
+      interdisciplinary health communications work already taking place.  "
+- sys:
+    id: 4bQXf8nzdDmDIExu2NqAxr
+    created_at: !ruby/object:DateTime 2019-11-20 02:05:17.052000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:05:17.052000000 Z
+    content_type_id: section
+    revision: 1
+  title: Research Findings
+  modules:
+  - sys:
+      id: 5SvsPIju7SxS2W7HilzFJT
+      created_at: !ruby/object:DateTime 2019-11-20 02:05:13.610000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:05:13.610000000 Z
+      content_type_id: moduleText
+      revision: 1
+    title: Research Findings
+    content: "Our research highlights that \n\n- Achieving health equity through health
+      fact-checking requires a new Do No Harm Framework\n  - Fact-checking health
+      topics requires adherence to and creation of public health standards of care
+      that differ from dominant fact-checking frameworks. \t\n  - Health audiences
+      need a new fact-checking workflow that requires more targeted, tailored and
+      practical information without compromising their safety or privacy.\n  - Already
+      vulnerable communities stand at greatest risk of further marginalization and
+      compromised safety. \n \t\t\t\t\t\t\t\n- Artificial intelligence techniques
+      may help establish early warning, monitoring and evaluation systems for digital
+      content.\n- Misinfodemic simulation exercises for digital misinformation can
+      allow for co-creation of new response pathways, and preparing public health
+      practitioners for common threats and scenarios."
+- sys:
+    id: 3uUNGsbLP0lEmTYpEigXvA
+    created_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
+    content_type_id: section
+    revision: 1
+  title: Misinfodemic Response Framework Toolkit
+  modules:
+  - sys:
+      id: 3goXcGPGmLOBILsJjo8kay
+      created_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
+      content_type_id: modulePublication
+      revision: 1
+    title: " Health Equity through Health Fact-checking: A Primer "
+    description: "Misinfodemics, the idea that viral misinformation can facilitate
+      the spread of a particular health outcome or disease, are a public health issue
+      with significant momentum, bringing together interdisciplinary organizations
+      and researchers, media producers and distributors, technology companies, social
+      media platforms, and academic institutions around the world.\n\nAs these groups
+      attempt to address challenges surrounding the credibility, amplification and
+      equitable accessibility of quality online content - while reducing the impact
+      of problematic health misinformation - fact-checking is an increasingly central
+      part of the conversation. But can current fact-checking processes and outputs
+      actually work for a topic as complex as health? Do fact-checking outputs reach
+      the most vulnerable? Are these initiatives in their current form meeting the
+      needs of individuals disproportionately affected by health misinformation, including
+      populations in low socioeconomic environments, queer communities, and communities
+      of color? And if not, what are alternative solutions to addressing digital misinformation
+      in a topic area as critical as health?\n\nOur research highlights four key takeaways
+      for the public health advocacy, fact-checking and communications communities:
+      \n\n1. Fact-checking health topics requires adherence to and creation of public
+      health standards of care that differ from dominant fact-checking frameworks.\n2.
+      Biases in what gets selected for fact-checked content reflects limited newsroom
+      and organizational resources. \n3. Already vulnerable communities stand at greatest
+      risk of further marginalization and compromised safety. \n4. Health audiences
+      need a new fact-checking workflow that requires more targeted, tailored and
+      practical information without compromising their safety or privacy. \n\nIn this
+      primer, we address key questions about the research behind and efficacy of health-focused
+      fact-checking, forming the basis of a Do No Harm misinfodemic response framework."
+  - sys:
+      id: 1NaazVfLPrcx3BX5wpImMc
+      created_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z
+      content_type_id: modulePublication
+      revision: 1
+    title: " Misinfodemic Simulation Exercise Facilitation Guide "
+    description: Borrowing from cybersecurity preparedness workshops and epidemic
+      simulations, we have developed a series of exercises for journalists, health
+      practitioners, medical and public health students, human rights advocates and
+      community-based organizations. Our workshops are designed to cultivate a deeper
+      understanding of how challenging addressing digital health misinformation can
+      be, and to collaborate in the development of new response pathways.
+- sys:
+    id: 671YQuxAB5OvLOKxUEvEl7
+    created_at: !ruby/object:DateTime 2019-11-20 02:28:00.199000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:28:00.199000000 Z
+    content_type_id: section
+    revision: 1
+  title: Press
+  modules:
+  - sys:
+      id: 1Rfq6GRYKeOHw4Y06u7Fg7
+      created_at: !ruby/object:DateTime 2019-11-20 02:21:49.547000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:21:49.547000000 Z
+      content_type_id: moduleLeadText
+      revision: 1
+    content: 'Stories covering the projects we’re working on at Meedan’s Digital Health
+      Lab. '
+  - sys:
+      id: 3mOPO68RG4kE9pJoAY6FAr
+      created_at: !ruby/object:DateTime 2019-11-20 02:27:57.255000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:27:57.255000000 Z
+      content_type_id: moduleCards
+      revision: 1
+    title: Press Coverage
+    cards:
+    - sys:
+        id: 4t76UmlKPlZJEGVV8XlHJf
+    - sys:
+        id: X2y9igKA6g1FbKyKFWWVy
+- sys:
+    id: 3WZTpfIJOGSgfA7HmsKj82
+    created_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
+    content_type_id: section
+    revision: 1
+  title: Video
+  modules:
+  - sys:
+      id: 6OOxzVNE1i8En846bJCEwW
+      created_at: !ruby/object:DateTime 2019-11-20 02:29:34.959000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:29:34.959000000 Z
+      content_type_id: moduleVideo
+      revision: 1
+    title: Digital Health Lab co-founder
+    youtube_video_id: 0RkmKDwXAfk
+    caption: Rather than addressing health misinformation challenges using traditional
+      fact-checking approaches, Digital Health Lab co-founder Nat Gyenes talks about
+      how we can promote access to health information that is engaging, accessible
+      and relevant to end-users.
+- sys:
+    id: 3PPrczlvmRKqvV7BBv0gtM
+    created_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z
+    content_type_id: section
+    revision: 1
+  title: " Interested in learning more?"
+  modules:
+  - sys:
+      id: 1h8kuaN2BgcCGHxpM2NNBP
+      created_at: !ruby/object:DateTime 2019-11-20 02:30:11.916000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:30:11.916000000 Z
+      content_type_id: moduleLeadText
+      revision: 1
+    content: To learn more about our work, or to explore opportunities for collaboration,
+      please fill out the following form & someone from our team will contact you
+      soon.
+  - sys:
+      id: 3FasYcH0aENMapUyHFmdoT
+      created_at: !ruby/object:DateTime 2019-11-20 02:30:22.395000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:30:22.395000000 Z
+      content_type_id: moduleForm
+      revision: 1
+    title: Contact

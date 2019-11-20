@@ -1,0 +1,18 @@
+{% assign lps = site.data.contentful.spaces.landingPages.landingPage %}
+{% for lp in lps %}
+  {% if lp.homepage == true  %}
+    {% assign page = lp %}
+    {% assign homepage = true %}
+  {% endif %}
+{% endfor %}
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body class="page-section">
+		<div class="site-wrapper">
+            {% if page.sections %}
+                {% include render_sections.html %}
+            {% endif %}
+        </div>
+    </body>
+</html>
