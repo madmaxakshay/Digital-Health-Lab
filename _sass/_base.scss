@@ -41,3 +41,30 @@ figure {
   flex: 1 auto;
   box-sizing: border-box;
 }
+
+
+// ======================================================================
+// Logo
+
+.logo {
+  line-height: 1;
+}
+
+.logo .svg {
+  margin-top: $space-medium;
+  margin-bottom: $space-medium;
+  text-align: center;
+}
+
+.logo-text {
+  text-align: left; 
+}
+
+.logo-text-original {
+  display: inline-block;
+  width: 40%;
+  font-family: $font-stack-b;
+  font-weight: normal;
+  font-size: $large-text;
+  color: $dark-green;
+}

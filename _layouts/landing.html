@@ -1,18 +1,34 @@
 {% assign lps = site.data.contentful.spaces.landingPages.landingPage %}
 {% for lp in lps %}
-  {% if lp.homepage == true  %}
-    {% assign page = lp %}
-    {% assign homepage = true %}
-  {% endif %}
+{% if lp.homepage == true  %}
+{% assign page = lp %}
+{% assign homepage = true %}
+{% endif %}
 {% endfor %}
 <!DOCTYPE html>
 <html>
-	{% include head.html %}
-	<body class="page-section">
-		<div class="site-wrapper">
-            {% if page.sections %}
-                {% include render_sections.html %}
-            {% endif %}
-        </div>
-    </body>
+{% include head.html %}
+
+<body class="page-section">
+  <div class="p-header">
+    <div class="p-header-container">
+      <h1 class="logo">
+        <span class="logo-text">
+          <span class="logo-text-original">{{ page.title }}</span>
+        </span>
+        {% include logo.html %}
+      </h1>
+      <h2>
+        {{ page.description }}
+      </h2>
+    </div>
+  </div>
+  <div class="site-wrapper">
+    {% if page.sections %}
+    {% include render_sections.html %}
+    {% endif %}
+  </div>
+  {% include js.html %}
+</body>
+
 </html>

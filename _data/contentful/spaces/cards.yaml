@@ -1,0 +1,49 @@
+---
+moduleCard:
+- sys:
+    id: 4t76UmlKPlZJEGVV8XlHJf
+    created_at: !ruby/object:DateTime 2019-11-20 02:24:51.864000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:24:51.864000000 Z
+    content_type_id: moduleCard
+    revision: 1
+  title: How Misinfodemics Spread Disease
+  slug: how-misinfodemics-spread-disease
+  image:
+    sys:
+      id: 7fUcN8n5hDAwp5BtKS67uG
+      created_at: !ruby/object:DateTime 2019-11-20 02:24:44.375000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:24:44.375000000 Z
+    title: the atlantic 2019 logo
+    description: 
+    url: "//images.ctfassets.net/f5serhu68qd4/7fUcN8n5hDAwp5BtKS67uG/1ff7671c6868885c6bd0e3eb410dab75/the_atlantic_2019_logo.png"
+  description: |-
+    [… ]our understanding of exactly how digital infections happen remains focused more on symptoms, looking at the number of shares a given vaccine-hesitancy tweet receives, than on some of the underlying causes, such as the digital infrastructure that makes some internet users more susceptible to encountering false information about immunization.
+
+    Research demonstrates that public-health digital outreach uses a lot of language and strategies that are inaccessible to the populations it is trying to target. [...] Our work on the Credibility Coalition, an effort to develop web-wide standards around online-content credibility, and Path [now Digital Health Lab], a project aimed at translating and surfacing scientific claims in new ways, as part of two efforts of many to think about data standards and information access across different platforms.
+  logo: true
+  link: https://www.theatlantic.com/technology/archive/2018/08/how-misinfodemics-spread-disease/568921/
+- sys:
+    id: X2y9igKA6g1FbKyKFWWVy
+    created_at: !ruby/object:DateTime 2019-11-20 02:27:54.389000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-20 02:27:54.389000000 Z
+    content_type_id: moduleCard
+    revision: 1
+  title: 'Switchpoint 2019: Day 1'
+  slug: switchpoint-2019-day-1
+  image:
+    sys:
+      id: 6QhzqrPbCguNZJGcfPKBp0
+      created_at: !ruby/object:DateTime 2019-11-20 02:27:47.732000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-20 02:27:47.732000000 Z
+    title: IntraHealth Logo
+    description: 
+    url: "//images.ctfassets.net/f5serhu68qd4/6QhzqrPbCguNZJGcfPKBp0/1f72ea10a9e3cfe0bdeaf13e8a8aa07f/g1FHEdpw_400x400.png"
+  description: 'Misinformation—and what Gyenes [and Mina] calls misinfodemics—are
+    a huge threat to public health. The spread of inaccurate health messages has caused
+    deaths during Ebola outbreaks, tooth decay and mass hospitalizations in Australia,
+    and outbreaks of vaccine-preventable diseases such as measles in New York. A new
+    project at Meedan called Path [now Digital Health Lab] aims to change this by
+    improving information quality, access, diversity, and representation in health
+    data infrastructure. '
+  logo: true
+  link: https://www.intrahealth.org/vital/switchpoint-2019-day-1
