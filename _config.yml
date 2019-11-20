@@ -62,6 +62,20 @@ contentful:
           content_type: 'section'
         all_entries: true
         destination: 'contentful/spaces/'
+    - publications: 
+        space: ENV_CONTENTFUL_DHL_SPACE_ID
+        access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
+        cda_query:
+          content_type: 'modulePublication'
+        all_entries: true
+        destination: 'contentful/spaces/'
+    - cards: 
+        space: ENV_CONTENTFUL_DHL_SPACE_ID
+        access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
+        cda_query:
+          content_type: 'moduleCard'
+        all_entries: true
+        destination: 'contentful/spaces/'
 
 
 # Generate pages from Contentful data files

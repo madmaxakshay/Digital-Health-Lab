@@ -1,0 +1,18 @@
+<div class="publication">
+    <div class="publication-text">
+        <h3>{{ module.title }}</h3>
+        <div class="publication-description">
+            {{ module.description | markdownify }}      
+        </div>
+        
+        {% if module.link %}
+            <a class="publication-link" href="{{ module.link }}">Read the report</a>
+        {% else %}
+            <span class="highlight">Coming soon!</span>
+        {% endif %}
+        
+    </div>
+    <div class="publication-read-more">
+        <span>Read more</span>
+    </div>
+</div>

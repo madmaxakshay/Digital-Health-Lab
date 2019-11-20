@@ -9,16 +9,6 @@ section:
   title: What We Do
   modules:
   - sys:
-      id: 1peWEkhBpLJbWS8vCgffUr
-      created_at: !ruby/object:DateTime 2019-11-20 02:01:42.468000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-20 02:01:42.468000000 Z
-      content_type_id: moduleLeadText
-      revision: 1
-    content: |-
-      At Meedan’s Digital Health Lab we are researching,
-      designing and testing a digital response framework for
-      addressing health misinformation online, centered around accessibility and equity.
-  - sys:
       id: 557Ay4w3yDGNtEIWwnRahk
       created_at: !ruby/object:DateTime 2019-11-20 02:02:19.557000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:02:19.557000000 Z

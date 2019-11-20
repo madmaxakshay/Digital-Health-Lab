@@ -1,0 +1,152 @@
+// ======================================================================
+// Landing Page
+
+.page-section {
+	position: relative;
+}
+
+
+.page-section .p-header {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	will-change: opacity;
+	max-width: 1600px;
+	margin: 0 auto;
+	background-color: $light-grayish-orange;
+  }
+
+.page-section .p-header-container {
+	font-weight: normal;
+	margin-top: $space-medium;
+	margin-bottom: $space-medium;
+	z-index: 2;
+	width: calc(100% - 60px);
+	border-top: 2px solid $dark-green;
+	border-bottom: 2px solid $dark-green;
+}
+
+.page-section .p-header-container h2 {
+	font-weight: normal;
+    margin-top: 0;
+    font-family: $font-stack-b;
+    font-size: $large-text;
+	line-height: $large-line-height;
+	color: $dark-green;
+}
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+	.page-section .p-header-container h2 {
+		font-weight: 500;
+		font-size: $medium-text/1.4;
+	}
+}
+
+// sections common
+.content-wrapper {
+	width: calc(100% - 60px);
+    margin: $space-small/2 auto $space-medium/2 auto;
+	max-width: $page-width;
+}
+
+@include responsive('min-width: #{$width-tablet}') {
+	.content-wrapper {
+	  margin: $space-small auto $space-large auto;
+	}
+}
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+	.content-wrapper {
+		width: auto;
+		padding-left: $space-small/2;
+		padding-right: $space-small/2;
+	}
+}
+
+.content-wrapper h2, h3 {
+	font-weight: 500;
+}
+
+.content-wrapper h2 {
+	position: relative;
+	color: $black;
+	padding-top: $space-small;
+	padding-bottom: $space-small;
+	text-align: center;
+	font-family: $font-stack-b;
+	font-weight: bold;
+	font-size: $medium-text;
+}
+
+// Type
+.lead {
+    font-family: $font-stack-b;
+	font-weight: normal;
+	font-size: $large-text;
+	line-height: $large-line-height;
+	text-align: center;
+}
+
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+	.lead {
+		font-weight: normal;
+		font-size: $medium-text;
+	}
+}
+
+.highlight {
+	padding: 4px;
+	background-color: $pale-red;
+	font-size: 150%;
+}
+
+.grouped-column {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	font-size: $medium-text;
+}
+
+@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+	.grouped-column { 
+		display: inline-block;
+	}
+}
+
+@include responsive('min-width: #{$width-tablet}') {
+	.grouped-column-content {
+		width: $paragraph;
+	}
+}
+
+// sections
+.what-we-do {
+	// background-color: $black;
+	// color: $white;
+}
+
+.research-findings {
+	// background-color: $black;
+	// color: $white;
+}
+
+.misinfodemic-response-framework-toolkit {
+	// background-color: $bright-green;
+}
+
+.video {
+	h2 { color: $white; }
+	background-color: $black;
+	color: $white;
+}
+
+.press {
+	background-color: $vivid-blue;
+}
+
+.interested-in-learning-more {
+	background-color: $bright-orange;
+}
