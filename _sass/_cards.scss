@@ -43,10 +43,12 @@
 		order: -1;
 		height: 350px;
 	}
+	.card-text {
+		height: auto;
+	}
 	.card-text,
 	.card-graphic {
 		max-width: 100%;
-		flex-basis: 100%;
 	}
 }
 
@@ -58,12 +60,6 @@
 	background-color: $black;
 	color: $white;
 	padding: $space-small;
-}
-
-@media (min-width: 1px) and (max-width: #{$width-tablet}) {
-	.card-text {
-		height: 450px;
-	}
 }
 
 .card-text .title,
