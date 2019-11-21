@@ -38,10 +38,10 @@ landingPage:
   - sys:
       id: 3uUNGsbLP0lEmTYpEigXvA
       created_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 03:58:57.728000000 Z
       content_type_id: section
-      revision: 1
-    title: Misinfodemic Response Framework Toolkit
+      revision: 2
+    title: Misinfodemic Response Toolkit
     modules:
     - sys:
         id: 3goXcGPGmLOBILsJjo8kay
