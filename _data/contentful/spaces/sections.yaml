@@ -11,21 +11,21 @@ section:
   - sys:
       id: 557Ay4w3yDGNtEIWwnRahk
       created_at: !ruby/object:DateTime 2019-11-20 02:02:19.557000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 02:27:12.537000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 03:57:57.670000000 Z
       content_type_id: moduleText
-      revision: 9
+      revision: 10
     title: What We Do
-    content: "We are developing a *standard of care* for responding to misinfodemics,
-      by:\n\n__- conducting applied research__ to improve public health through digital
-      innovation, participatory methods, and equity-centered design.\n\n __- building
-      a community__ of health practitioners, researchers, journalists, activists and
-      end-users actively engaged in reducing health misinformation, to support fact-checking
-      organizations and to ensure that health content online is engaging, relevant
-      and accessible.\n \n __- hosting misinfodemic response exercises__, preparing
-      practitioners for complex and common digital health misinformation threats and
-      scenarios, and co-designing new response pathways. \n\n __- documenting best
-      practices and sharing resources__ for designing equity-centered health communications
-      outputs. "
+    content: "We are developing a standard of care for responding to misinfodemics.
+      This involves:\n\n__- conducting applied research__ to improve public health
+      through digital innovation, participatory methods, and equity-centered design.\n\n
+      __- building a community__ of health practitioners, researchers, journalists,
+      activists and end-users actively engaged in reducing health misinformation,
+      to support fact-checking organizations and to ensure that health content online
+      is engaging, relevant and accessible.\n \n __- hosting misinfodemic response
+      exercises__, preparing practitioners for complex and common digital health misinformation
+      threats and scenarios, and co-designing new response pathways. \n\n __- documenting
+      best practices and sharing resources__ for designing equity-centered health
+      communications outputs. "
 - sys:
     id: 4bQXf8nzdDmDIExu2NqAxr
     created_at: !ruby/object:DateTime 2019-11-20 02:05:17.052000000 Z
@@ -37,29 +37,46 @@ section:
   - sys:
       id: 5SvsPIju7SxS2W7HilzFJT
       created_at: !ruby/object:DateTime 2019-11-20 02:05:13.610000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-20 02:05:13.610000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 03:48:22.928000000 Z
       content_type_id: moduleText
-      revision: 1
-    title: Research Findings
-    content: "Our research highlights that \n\n- Achieving health equity through health
-      fact-checking requires a new Do No Harm Framework\n  - Fact-checking health
-      topics requires adherence to and creation of public health standards of care
-      that differ from dominant fact-checking frameworks. \t\n  - Health audiences
-      need a new fact-checking workflow that requires more targeted, tailored and
-      practical information without compromising their safety or privacy.\n  - Already
-      vulnerable communities stand at greatest risk of further marginalization and
-      compromised safety. \n \t\t\t\t\t\t\t\n- Artificial intelligence techniques
-      may help establish early warning, monitoring and evaluation systems for digital
-      content.\n- Misinfodemic simulation exercises for digital misinformation can
-      allow for co-creation of new response pathways, and preparing public health
-      practitioners for common threats and scenarios."
+      revision: 7
+    title: Research Tracks
+    content: "__Health Fact-checking__\n\nAs organizations around the world are working
+      to reduce the impact of problematic health misinformation, fact-checking is
+      an increasing part of the conversation. Responding to health misinformation
+      requires specific, accessible, tailored and practical information without compromising
+      the safety or privacy of target audiences. This set of projects examines the
+      unique elements of health-specific fact-checking, and the need for an entirely
+      new, collaborative digital response framework for addressing health misinformation.\n\n__Health
+      & AI__\n\nArtificial intelligence techniques may help establish early warning,
+      monitoring and evaluation systems for digital content. In collaboration with
+      the Harvard School of Public Health and the Oxford Internet Institute, we are
+      examining how new methodologies can be used by public health organizations looking
+      to monitor and detect misinfodemics, determine what topics within the realm
+      of health misinformation to prioritize in intervention designs, and evaluate
+      programs. \n\n\n__Misinfodemic Preparedness__\n\nMisinfodemic simulation exercises
+      are an essential tool for preparing practitioners for complex and common digital
+      health misinformation threats and scenarios. This work serves to develop, facilitate,
+      and provide resources for implementing collaborative digital health misinformation
+      responses across sectors that align with the safety, privacy, efficacy, and
+      access standards  representative of public health duties of care, and to enhance
+      preparedness and response capacities for organizations around the world. \n\n__Digital
+      Health Equity & Ethics__\n\nWith increases in health misinformation spreading
+      through private messaging channels, in forums, and on social media, responses
+      are required at scales larger than ever before. Vulnerable communities disproportionately
+      affected by health misinformation stand at greatest risk of further marginalization,
+      stigmatization, inequitable access to response efforts, and compromised safety.
+      This work investigates the limited infrastructure for ethics and accountability
+      in misinfodemic response, and, in collaboration with public health researchers
+      and journalists, is prototyping a set of ethical guidelines to strengthen equitable
+      health communications efforts. "
 - sys:
     id: 3uUNGsbLP0lEmTYpEigXvA
     created_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-21 03:58:57.728000000 Z
     content_type_id: section
-    revision: 1
-  title: Misinfodemic Response Framework Toolkit
+    revision: 2
+  title: Misinfodemic Response Toolkit
   modules:
   - sys:
       id: 3goXcGPGmLOBILsJjo8kay
