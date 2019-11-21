@@ -50,7 +50,7 @@ figure {
   line-height: 1;
 }
 
-.logo .svg {
+.logo .logo-pick {
   margin-top: $space-small/2;
   margin-bottom: $space-small/2;
   text-align: center;
@@ -58,7 +58,7 @@ figure {
 }
 
 @include responsive('min-width: #{$width-tablet}') {
-  .logo .svg {
+  .logo .logo-pick {
     margin-top: $space-medium;
     margin-bottom: $space-medium;
     svg { width: 80%; }
@@ -66,19 +66,9 @@ figure {
 }
 
 .logo-text {
-  text-align: left; 
+  position: relative;
 }
 
 .logo-text-original {
-  display: inline-block;
-  font-family: $font-stack-b;
-  font-weight: normal;
-  color: $dark-green;
-  width: 40%;
-}
-
-@include responsive('min-width: #{$width-tablet}') {
-  .logo-text-original {
-    font-size: $large-text;
-  }
+  color: transparent;
 }

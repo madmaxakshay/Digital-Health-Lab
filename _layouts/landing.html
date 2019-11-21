@@ -11,16 +11,22 @@
 
 <body class="page-section">
   <div class="p-header">
+    
+
     <div class="p-header-container">
       <h1 class="logo">
+        {% include wordmark.html %}
         <span class="logo-text">
-          <span class="logo-text-original">{{ page.title }}</span>
+            <span class="logo-text-original">{{ page.title }}</span>
         </span>
-        {% include logo.html %}
+        <span class="logo-pick">
+            {% include logo-pick.html %}
+        </span>
       </h1>
       <h2>
         {{ page.description }}
       </h2>
+      <h3>An initiative organized by {% include meedan_logo.html %}</h3>
     </div>
   </div>
   <div class="site-wrapper">

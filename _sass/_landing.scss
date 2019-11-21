@@ -18,21 +18,17 @@
   }
 
 .page-section .p-header-container {
+	display: flex;
+	flex-direction: column;
 	font-weight: normal;
-	margin-top: $space-small;
+	
 	margin-bottom: $space-small;
 	z-index: 2;
 	width: calc(100% - 60px);
-	border-top: 2px solid $dark-green;
 	border-bottom: 2px solid $dark-green;
 }
 
-@include responsive('min-width: #{$width-tablet}') {
-	.page-section .p-header-container {
-		margin-top: $space-medium;
-		margin-bottom: $space-medium;
-	}
-}
+
 
 .page-section .p-header-container h2 {
 	font-weight: normal;
@@ -48,6 +44,22 @@
 		font-size: $large-text;
 		line-height: $large-line-height;
 	}
+}
+
+.page-section .p-header-container h3 {
+	display: flex;
+	align-items: center;
+	font-weight: normal;
+	color: $dark-green;
+	order: -1;
+	font-size: $small-text;
+	svg {
+		margin-left: $space-small/2;
+		height: 1.8rem;
+	}
+	padding-bottom: $space-small/2;
+	margin-top: $space-small;
+	border-bottom: 2px solid $dark-green;
 }
 
 // sections common
