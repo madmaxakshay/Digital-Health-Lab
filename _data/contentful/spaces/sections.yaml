@@ -2,85 +2,93 @@
 section:
 - sys:
     id: 3cJbsbfq2l8h2w8KrpeuNL
-    created_at: !ruby/object:DateTime 2019-11-20 02:02:24.362000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-20 02:02:24.362000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:01:14.156000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-21 23:59:21.883000000 Z
     content_type_id: section
     revision: 1
   title: What We Do
   modules:
   - sys:
+      id: 1peWEkhBpLJbWS8vCgffUr
+      created_at: !ruby/object:DateTime 2019-11-20 02:01:29.351000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 21:18:21.334000000 Z
+      content_type_id: moduleLeadText
+      revision: 1
+    content: 'We are developing a standard of care for responding to misinfodemics.
+      This involves:'
+  - sys:
       id: 557Ay4w3yDGNtEIWwnRahk
-      created_at: !ruby/object:DateTime 2019-11-20 02:02:19.557000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 03:57:57.670000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:01:47.711000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 21:18:17.731000000 Z
       content_type_id: moduleText
       revision: 10
     title: What We Do
-    content: "We are developing a standard of care for responding to misinfodemics.
-      This involves:\n\n__- conducting applied research__ to improve public health
-      through digital innovation, participatory methods, and equity-centered design.\n\n
-      __- building a community__ of health practitioners, researchers, journalists,
-      activists and end-users actively engaged in reducing health misinformation,
-      to support fact-checking organizations and to ensure that health content online
-      is engaging, relevant and accessible.\n \n __- hosting misinfodemic response
-      exercises__, preparing practitioners for complex and common digital health misinformation
-      threats and scenarios, and co-designing new response pathways. \n\n __- documenting
-      best practices and sharing resources__ for designing equity-centered health
-      communications outputs. "
+  - sys:
+      id: 4c5x06E1AaJydv8GuzdKmM
+      created_at: !ruby/object:DateTime 2019-11-21 23:58:21.089000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 23:58:58.260000000 Z
+      content_type_id: moduleList
+      revision: 0
+    title: What we do
+    list_items:
+    - sys:
+        id: 2Emx3XBo0W5x8ffBQ7EzVE
+    - sys:
+        id: 2h6E3vFsxaxYXXvZOXGdHf
+    - sys:
+        id: 4iylkgQRlXQuk1LiGdqA1o
+    - sys:
+        id: bhfBoEZkD5oskKMntInos
 - sys:
     id: 4bQXf8nzdDmDIExu2NqAxr
-    created_at: !ruby/object:DateTime 2019-11-20 02:05:17.052000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-20 02:05:17.052000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:02:31.774000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:00:46.843000000 Z
     content_type_id: section
-    revision: 1
-  title: Research Findings
+    revision: 2
+  title: Research Tracks
   modules:
   - sys:
       id: 5SvsPIju7SxS2W7HilzFJT
-      created_at: !ruby/object:DateTime 2019-11-20 02:05:13.610000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 03:48:22.928000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:02:50.792000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 22:15:13.072000000 Z
       content_type_id: moduleText
       revision: 7
     title: Research Tracks
-    content: "__Health Fact-checking__\n\nAs organizations around the world are working
-      to reduce the impact of problematic health misinformation, fact-checking is
-      an increasing part of the conversation. Responding to health misinformation
-      requires specific, accessible, tailored and practical information without compromising
-      the safety or privacy of target audiences. This set of projects examines the
-      unique elements of health-specific fact-checking, and the need for an entirely
-      new, collaborative digital response framework for addressing health misinformation.\n\n__Health
-      & AI__\n\nArtificial intelligence techniques may help establish early warning,
-      monitoring and evaluation systems for digital content. In collaboration with
-      the Harvard School of Public Health and the Oxford Internet Institute, we are
-      examining how new methodologies can be used by public health organizations looking
-      to monitor and detect misinfodemics, determine what topics within the realm
-      of health misinformation to prioritize in intervention designs, and evaluate
-      programs. \n\n\n__Misinfodemic Preparedness__\n\nMisinfodemic simulation exercises
-      are an essential tool for preparing practitioners for complex and common digital
-      health misinformation threats and scenarios. This work serves to develop, facilitate,
-      and provide resources for implementing collaborative digital health misinformation
-      responses across sectors that align with the safety, privacy, efficacy, and
-      access standards  representative of public health duties of care, and to enhance
-      preparedness and response capacities for organizations around the world. \n\n__Digital
-      Health Equity & Ethics__\n\nWith increases in health misinformation spreading
-      through private messaging channels, in forums, and on social media, responses
-      are required at scales larger than ever before. Vulnerable communities disproportionately
-      affected by health misinformation stand at greatest risk of further marginalization,
-      stigmatization, inequitable access to response efforts, and compromised safety.
-      This work investigates the limited infrastructure for ethics and accountability
-      in misinfodemic response, and, in collaboration with public health researchers
-      and journalists, is prototyping a set of ethical guidelines to strengthen equitable
-      health communications efforts. "
+  - sys:
+      id: 2LiYf5p3sjCYlBv0haA1JX
+      created_at: !ruby/object:DateTime 2019-11-21 23:59:53.809000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-22 00:00:30.877000000 Z
+      content_type_id: moduleList
+      revision: 0
+    title: Research Tracks
+    list_items:
+    - sys:
+        id: 1q7mNkjYqkpgBSA0fWX3UB
+    - sys:
+        id: HB39IqH9VEoX498Aup6hk
+    - sys:
+        id: 6mArteK9UwebD8JVRDCYD3
+    - sys:
+        id: 6WxNwlRh5zDDQYMohfrgE5
 - sys:
     id: 3uUNGsbLP0lEmTYpEigXvA
-    created_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 03:58:57.728000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:05:24.029000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-21 04:22:33.582000000 Z
     content_type_id: section
-    revision: 2
+    revision: 3
   title: Misinfodemic Response Toolkit
   modules:
   - sys:
+      id: 67FcF7E55QpPSTg22Ow1of
+      created_at: !ruby/object:DateTime 2019-11-21 04:22:20.927000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-21 04:22:29.686000000 Z
+      content_type_id: moduleLeadText
+      revision: 1
+    content: 'Here are some resources and facilitation guides that can help guide
+      and strengthen equity-centered health misinformation response efforts. '
+  - sys:
       id: 3goXcGPGmLOBILsJjo8kay
-      created_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:19:32.476000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
       content_type_id: modulePublication
       revision: 1
@@ -112,7 +120,7 @@ section:
       fact-checking, forming the basis of a Do No Harm misinfodemic response framework."
   - sys:
       id: 1NaazVfLPrcx3BX5wpImMc
-      created_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:21:01.007000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z
       content_type_id: modulePublication
       revision: 1
@@ -125,7 +133,7 @@ section:
       be, and to collaborate in the development of new response pathways.
 - sys:
     id: 671YQuxAB5OvLOKxUEvEl7
-    created_at: !ruby/object:DateTime 2019-11-20 02:28:00.199000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:21:32.297000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:28:00.199000000 Z
     content_type_id: section
     revision: 1
@@ -133,7 +141,7 @@ section:
   modules:
   - sys:
       id: 1Rfq6GRYKeOHw4Y06u7Fg7
-      created_at: !ruby/object:DateTime 2019-11-20 02:21:49.547000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:21:42.651000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:21:49.547000000 Z
       content_type_id: moduleLeadText
       revision: 1
@@ -141,7 +149,7 @@ section:
       Lab. '
   - sys:
       id: 3mOPO68RG4kE9pJoAY6FAr
-      created_at: !ruby/object:DateTime 2019-11-20 02:27:57.255000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:22:00.148000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:27:57.255000000 Z
       content_type_id: moduleCards
       revision: 1
@@ -153,7 +161,7 @@ section:
         id: X2y9igKA6g1FbKyKFWWVy
 - sys:
     id: 3WZTpfIJOGSgfA7HmsKj82
-    created_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:28:19.405000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
     content_type_id: section
     revision: 1
@@ -161,7 +169,7 @@ section:
   modules:
   - sys:
       id: 6OOxzVNE1i8En846bJCEwW
-      created_at: !ruby/object:DateTime 2019-11-20 02:29:34.959000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:28:55.727000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:29:34.959000000 Z
       content_type_id: moduleVideo
       revision: 1
@@ -173,7 +181,7 @@ section:
       and relevant to end-users.
 - sys:
     id: 3PPrczlvmRKqvV7BBv0gtM
-    created_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:29:40.996000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z
     content_type_id: section
     revision: 1
@@ -181,7 +189,7 @@ section:
   modules:
   - sys:
       id: 1h8kuaN2BgcCGHxpM2NNBP
-      created_at: !ruby/object:DateTime 2019-11-20 02:30:11.916000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:30:03.680000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:30:11.916000000 Z
       content_type_id: moduleLeadText
       revision: 1
@@ -190,7 +198,7 @@ section:
       soon.
   - sys:
       id: 3FasYcH0aENMapUyHFmdoT
-      created_at: !ruby/object:DateTime 2019-11-20 02:30:22.395000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:30:15.429000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:30:22.395000000 Z
       content_type_id: moduleForm
       revision: 1

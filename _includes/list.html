@@ -1,0 +1,6 @@
+{% assign title = include.title %}
+{% assign description = include.description %}
+<div class="list-item">
+		<div class="title">{{ title }}</div>
+    	<div class="description">{{ description | markdownify }}</div>
+</div>
