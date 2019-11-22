@@ -1,0 +1,16 @@
+{% assign list_items = site.data.contentful.spaces.moduleListItems.moduleListItem %}
+<div class="list">
+    <div class="list-wrapper">
+    {% for l in module.list_items %}
+        {% for li in list_items %}
+            {% if l.sys.id == li.sys.id %}
+                    {%
+                        include list.html
+                        title=li.title
+                        description=li.description
+                    %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+    </div>
+</div>

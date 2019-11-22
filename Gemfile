@@ -4,7 +4,7 @@ gem 'jekyll', '~> 3.0'
 gem 'contentful_bootstrap'
 
 group :jekyll_plugins do
-  gem "jekyll-contentful-data-import"
+  gem "jekyll-contentful-data-import", git: "https://github.com/meedan/jekyll-contentful-data-import"
   gem 'jekyll-seo-tag'
   gem 'jekyll-livereload'
 end

@@ -2,7 +2,7 @@
 moduleCard:
 - sys:
     id: 4t76UmlKPlZJEGVV8XlHJf
-    created_at: !ruby/object:DateTime 2019-11-20 02:24:51.864000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:22:13.569000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:24:51.864000000 Z
     content_type_id: moduleCard
     revision: 1
@@ -11,7 +11,7 @@ moduleCard:
   image:
     sys:
       id: 7fUcN8n5hDAwp5BtKS67uG
-      created_at: !ruby/object:DateTime 2019-11-20 02:24:44.375000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:24:31.888000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:24:44.375000000 Z
     title: the atlantic 2019 logo
     description: 
@@ -24,7 +24,7 @@ moduleCard:
   link: https://www.theatlantic.com/technology/archive/2018/08/how-misinfodemics-spread-disease/568921/
 - sys:
     id: X2y9igKA6g1FbKyKFWWVy
-    created_at: !ruby/object:DateTime 2019-11-20 02:27:54.389000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:24:55.824000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:27:54.389000000 Z
     content_type_id: moduleCard
     revision: 1
@@ -33,7 +33,7 @@ moduleCard:
   image:
     sys:
       id: 6QhzqrPbCguNZJGcfPKBp0
-      created_at: !ruby/object:DateTime 2019-11-20 02:27:47.732000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:27:29.145000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:27:47.732000000 Z
     title: IntraHealth Logo
     description: 

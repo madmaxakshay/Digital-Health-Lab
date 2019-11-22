@@ -53,6 +53,8 @@ contentful:
         access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
         cda_query:
           content_type: 'landingPage'
+        client_options:
+          api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
         destination: 'contentful/spaces/'
     - sections: 
@@ -60,6 +62,8 @@ contentful:
         access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
         cda_query:
           content_type: 'section'
+        client_options:
+          api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
         destination: 'contentful/spaces/'
     - publications: 
@@ -67,6 +71,8 @@ contentful:
         access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
         cda_query:
           content_type: 'modulePublication'
+        client_options:
+          api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
         destination: 'contentful/spaces/'
     - cards: 
@@ -74,6 +80,17 @@ contentful:
         access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
         cda_query:
           content_type: 'moduleCard'
+        client_options:
+          api_url: ENV_CONTENTFUL_API_URL
+        all_entries: true
+        destination: 'contentful/spaces/'
+    - moduleListItems: 
+        space: ENV_CONTENTFUL_DHL_SPACE_ID
+        access_token: ENV_CONTENTFUL_DHL_ACCESS_TOKEN
+        cda_query:
+          content_type: 'moduleListItem'
+        client_options:
+          api_url: ENV_CONTENTFUL_API_URL
         all_entries: true
         destination: 'contentful/spaces/'
 
