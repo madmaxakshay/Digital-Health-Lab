@@ -2,60 +2,46 @@
 moduleListItem:
 - sys:
     id: 2Emx3XBo0W5x8ffBQ7EzVE
-    created_at: !ruby/object:DateTime 2019-11-21 21:18:32.729000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 21:18:54.045000000 Z
+    created_at: !ruby/object:DateTime 2019-11-22 00:52:45.190000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:52:45.190000000 Z
     content_type_id: moduleListItem
-    revision: 0
+    revision: 1
   title: conducting applied research
   description: to improve public health through digital innovation, participatory
     methods, and equity-centered design.
 - sys:
     id: 2h6E3vFsxaxYXXvZOXGdHf
-    created_at: !ruby/object:DateTime 2019-11-21 21:18:58.914000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 21:19:37.176000000 Z
+    created_at: !ruby/object:DateTime 2019-11-22 00:52:48.644000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:52:48.644000000 Z
     content_type_id: moduleListItem
-    revision: 0
+    revision: 1
   title: building a community
   description: of health practitioners, researchers, journalists, activists and end-users
     actively engaged in reducing health misinformation, to support fact-checking organizations
     and to ensure that health content online is engaging, relevant and accessible.
 - sys:
     id: 4iylkgQRlXQuk1LiGdqA1o
-    created_at: !ruby/object:DateTime 2019-11-21 21:19:42.240000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 21:19:55.971000000 Z
+    created_at: !ruby/object:DateTime 2019-11-22 00:52:51.585000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:52:51.585000000 Z
     content_type_id: moduleListItem
-    revision: 0
+    revision: 1
   title: hosting misinfodemic response exercises
   description: 'preparing practitioners for complex and common digital health misinformation
     threats and scenarios, and co-designing new response pathways. '
 - sys:
     id: bhfBoEZkD5oskKMntInos
-    created_at: !ruby/object:DateTime 2019-11-21 21:19:59.697000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 21:20:07.561000000 Z
+    created_at: !ruby/object:DateTime 2019-11-22 00:52:54.759000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:52:54.759000000 Z
     content_type_id: moduleListItem
-    revision: 0
+    revision: 1
   title: documenting best practices and sharing resources
   description: 'for designing equity-centered health communications outputs. '
 - sys:
-    id: 1q7mNkjYqkpgBSA0fWX3UB
-    created_at: !ruby/object:DateTime 2019-11-21 22:15:17.446000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 22:15:44.020000000 Z
-    content_type_id: moduleListItem
-    revision: 0
-  title: Health Fact-checking
-  description: As organizations around the world are working to reduce the impact
-    of problematic health misinformation, fact-checking is an increasing part of the
-    conversation. Responding to health misinformation requires specific, accessible,
-    tailored and practical information without compromising the safety or privacy
-    of target audiences. This set of projects examines the unique elements of health-specific
-    fact-checking, and the need for an entirely new, collaborative digital response
-    framework for addressing health misinformation.
-- sys:
     id: HB39IqH9VEoX498Aup6hk
-    created_at: !ruby/object:DateTime 2019-11-21 22:15:49.658000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 22:16:08.544000000 Z
+    created_at: !ruby/object:DateTime 2019-11-22 00:53:17.718000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.718000000 Z
     content_type_id: moduleListItem
-    revision: 0
+    revision: 1
   title: Health & AI
   description: Artificial intelligence techniques may help establish early warning,
     monitoring and evaluation systems for digital content. In collaboration with the
@@ -64,25 +50,11 @@ moduleListItem:
     and detect misinfodemics, determine what topics within the realm of health misinformation
     to prioritize in intervention designs, and evaluate programs.
 - sys:
-    id: 6mArteK9UwebD8JVRDCYD3
-    created_at: !ruby/object:DateTime 2019-11-21 22:16:13.050000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 22:16:29.307000000 Z
-    content_type_id: moduleListItem
-    revision: 0
-  title: Misinfodemic Preparedness
-  description: Misinfodemic simulation exercises are an essential tool for preparing
-    practitioners for complex and common digital health misinformation threats and
-    scenarios. This work serves to develop, facilitate, and provide resources for
-    implementing collaborative digital health misinformation responses across sectors
-    that align with the safety, privacy, efficacy, and access standards  representative
-    of public health duties of care, and to enhance preparedness and response capacities
-    for organizations around the world.
-- sys:
     id: 6WxNwlRh5zDDQYMohfrgE5
-    created_at: !ruby/object:DateTime 2019-11-21 22:16:34.178000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 22:16:42.610000000 Z
+    created_at: !ruby/object:DateTime 2019-11-22 00:53:17.729000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.729000000 Z
     content_type_id: moduleListItem
-    revision: 0
+    revision: 1
   title: Digital Health Equity & Ethics
   description: 'With increases in health misinformation spreading through private
     messaging channels, in forums, and on social media, responses are required at
@@ -92,3 +64,31 @@ moduleListItem:
     the limited infrastructure for ethics and accountability in misinfodemic response,
     and, in collaboration with public health researchers and journalists, is prototyping
     a set of ethical guidelines to strengthen equitable health communications efforts. '
+- sys:
+    id: 6mArteK9UwebD8JVRDCYD3
+    created_at: !ruby/object:DateTime 2019-11-22 00:53:17.736000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.736000000 Z
+    content_type_id: moduleListItem
+    revision: 1
+  title: Misinfodemic Preparedness
+  description: Misinfodemic simulation exercises are an essential tool for preparing
+    practitioners for complex and common digital health misinformation threats and
+    scenarios. This work serves to develop, facilitate, and provide resources for
+    implementing collaborative digital health misinformation responses across sectors
+    that align with the safety, privacy, efficacy, and access standards  representative
+    of public health duties of care, and to enhance preparedness and response capacities
+    for organizations around the world.
+- sys:
+    id: 1q7mNkjYqkpgBSA0fWX3UB
+    created_at: !ruby/object:DateTime 2019-11-22 00:53:17.769000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.769000000 Z
+    content_type_id: moduleListItem
+    revision: 1
+  title: Health Fact-checking
+  description: As organizations around the world are working to reduce the impact
+    of problematic health misinformation, fact-checking is an increasing part of the
+    conversation. Responding to health misinformation requires specific, accessible,
+    tailored and practical information without compromising the safety or privacy
+    of target audiences. This set of projects examines the unique elements of health-specific
+    fact-checking, and the need for an entirely new, collaborative digital response
+    framework for addressing health misinformation.

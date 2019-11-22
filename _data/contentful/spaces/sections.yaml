@@ -2,33 +2,26 @@
 section:
 - sys:
     id: 3cJbsbfq2l8h2w8KrpeuNL
-    created_at: !ruby/object:DateTime 2019-11-20 02:01:14.156000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 23:59:21.883000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:02:24.362000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:56:13.208000000 Z
     content_type_id: section
-    revision: 1
+    revision: 2
   title: What We Do
   modules:
   - sys:
       id: 1peWEkhBpLJbWS8vCgffUr
-      created_at: !ruby/object:DateTime 2019-11-20 02:01:29.351000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 21:18:21.334000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:01:42.468000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-22 00:53:18.013000000 Z
       content_type_id: moduleLeadText
-      revision: 1
+      revision: 2
     content: 'We are developing a standard of care for responding to misinfodemics.
       This involves:'
   - sys:
-      id: 557Ay4w3yDGNtEIWwnRahk
-      created_at: !ruby/object:DateTime 2019-11-20 02:01:47.711000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 21:18:17.731000000 Z
-      content_type_id: moduleText
-      revision: 10
-    title: What We Do
-  - sys:
       id: 4c5x06E1AaJydv8GuzdKmM
-      created_at: !ruby/object:DateTime 2019-11-21 23:58:21.089000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 23:58:58.260000000 Z
+      created_at: !ruby/object:DateTime 2019-11-22 00:53:17.734000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.734000000 Z
       content_type_id: moduleList
-      revision: 0
+      revision: 1
     title: What we do
     list_items:
     - sys:
@@ -41,25 +34,18 @@ section:
         id: bhfBoEZkD5oskKMntInos
 - sys:
     id: 4bQXf8nzdDmDIExu2NqAxr
-    created_at: !ruby/object:DateTime 2019-11-20 02:02:31.774000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-22 00:00:46.843000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:05:17.052000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-22 00:56:35.675000000 Z
     content_type_id: section
-    revision: 2
+    revision: 4
   title: Research Tracks
   modules:
   - sys:
-      id: 5SvsPIju7SxS2W7HilzFJT
-      created_at: !ruby/object:DateTime 2019-11-20 02:02:50.792000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-21 22:15:13.072000000 Z
-      content_type_id: moduleText
-      revision: 7
-    title: Research Tracks
-  - sys:
       id: 2LiYf5p3sjCYlBv0haA1JX
-      created_at: !ruby/object:DateTime 2019-11-21 23:59:53.809000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-22 00:00:30.877000000 Z
+      created_at: !ruby/object:DateTime 2019-11-22 00:53:17.716000000 Z
+      updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.716000000 Z
       content_type_id: moduleList
-      revision: 0
+      revision: 1
     title: Research Tracks
     list_items:
     - sys:
@@ -72,7 +58,7 @@ section:
         id: 6WxNwlRh5zDDQYMohfrgE5
 - sys:
     id: 3uUNGsbLP0lEmTYpEigXvA
-    created_at: !ruby/object:DateTime 2019-11-20 02:05:24.029000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
     updated_at: !ruby/object:DateTime 2019-11-21 04:22:33.582000000 Z
     content_type_id: section
     revision: 3
@@ -80,7 +66,7 @@ section:
   modules:
   - sys:
       id: 67FcF7E55QpPSTg22Ow1of
-      created_at: !ruby/object:DateTime 2019-11-21 04:22:20.927000000 Z
+      created_at: !ruby/object:DateTime 2019-11-21 04:22:29.686000000 Z
       updated_at: !ruby/object:DateTime 2019-11-21 04:22:29.686000000 Z
       content_type_id: moduleLeadText
       revision: 1
@@ -88,7 +74,7 @@ section:
       and strengthen equity-centered health misinformation response efforts. '
   - sys:
       id: 3goXcGPGmLOBILsJjo8kay
-      created_at: !ruby/object:DateTime 2019-11-20 02:19:32.476000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
       content_type_id: modulePublication
       revision: 1
@@ -120,7 +106,7 @@ section:
       fact-checking, forming the basis of a Do No Harm misinfodemic response framework."
   - sys:
       id: 1NaazVfLPrcx3BX5wpImMc
-      created_at: !ruby/object:DateTime 2019-11-20 02:21:01.007000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z
       content_type_id: modulePublication
       revision: 1
@@ -133,7 +119,7 @@ section:
       be, and to collaborate in the development of new response pathways.
 - sys:
     id: 671YQuxAB5OvLOKxUEvEl7
-    created_at: !ruby/object:DateTime 2019-11-20 02:21:32.297000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:28:00.199000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:28:00.199000000 Z
     content_type_id: section
     revision: 1
@@ -141,7 +127,7 @@ section:
   modules:
   - sys:
       id: 1Rfq6GRYKeOHw4Y06u7Fg7
-      created_at: !ruby/object:DateTime 2019-11-20 02:21:42.651000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:21:49.547000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:21:49.547000000 Z
       content_type_id: moduleLeadText
       revision: 1
@@ -149,7 +135,7 @@ section:
       Lab. '
   - sys:
       id: 3mOPO68RG4kE9pJoAY6FAr
-      created_at: !ruby/object:DateTime 2019-11-20 02:22:00.148000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:27:57.255000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:27:57.255000000 Z
       content_type_id: moduleCards
       revision: 1
@@ -161,7 +147,7 @@ section:
         id: X2y9igKA6g1FbKyKFWWVy
 - sys:
     id: 3WZTpfIJOGSgfA7HmsKj82
-    created_at: !ruby/object:DateTime 2019-11-20 02:28:19.405000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
     content_type_id: section
     revision: 1
@@ -169,7 +155,7 @@ section:
   modules:
   - sys:
       id: 6OOxzVNE1i8En846bJCEwW
-      created_at: !ruby/object:DateTime 2019-11-20 02:28:55.727000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:29:34.959000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:29:34.959000000 Z
       content_type_id: moduleVideo
       revision: 1
@@ -181,7 +167,7 @@ section:
       and relevant to end-users.
 - sys:
     id: 3PPrczlvmRKqvV7BBv0gtM
-    created_at: !ruby/object:DateTime 2019-11-20 02:29:40.996000000 Z
+    created_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z
     updated_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z
     content_type_id: section
     revision: 1
@@ -189,7 +175,7 @@ section:
   modules:
   - sys:
       id: 1h8kuaN2BgcCGHxpM2NNBP
-      created_at: !ruby/object:DateTime 2019-11-20 02:30:03.680000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:30:11.916000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:30:11.916000000 Z
       content_type_id: moduleLeadText
       revision: 1
@@ -198,7 +184,7 @@ section:
       soon.
   - sys:
       id: 3FasYcH0aENMapUyHFmdoT
-      created_at: !ruby/object:DateTime 2019-11-20 02:30:15.429000000 Z
+      created_at: !ruby/object:DateTime 2019-11-20 02:30:22.395000000 Z
       updated_at: !ruby/object:DateTime 2019-11-20 02:30:22.395000000 Z
       content_type_id: moduleForm
       revision: 1
