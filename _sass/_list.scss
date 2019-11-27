@@ -5,17 +5,11 @@
 
 .list-item-wrapper {
     display: flex;
-    
+    margin-bottom: $space-small;
     
     @include responsive('min-width: #{$width-tablet}') {
         flex: 1 0 50%;
-        padding: percentage(1/24);
-        // padding-right: $space-small;
-    }
-    transition: background-color 0.2s;
-    &:hover {
-        // transform: translate(0, -10px);
-        background-color: rgba($soft-red, 0.2);
+        padding-right: $space-small;
     }
 }
 
