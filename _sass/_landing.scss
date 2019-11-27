@@ -130,10 +130,12 @@
 		position: relative;
 		&:before {
 			position: absolute;
+			@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+				left: -10px;
+			}
 			@include responsive('min-width: #{$width-tablet}') {
 				top: -10px;
 			}
-			left: -10px;
 			height: 20px;
 			border-radius: 50%;
 		}
