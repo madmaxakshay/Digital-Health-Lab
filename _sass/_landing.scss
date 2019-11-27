@@ -117,24 +117,34 @@
 	// background-color: $black;
 	// color: $white;
 	.list-wrapper {
-		border-top: 2px solid $dark-green;
 		display: flex;
-		flex-wrap: unset;
+		@media (min-width: 1px) and (max-width: #{$width-tablet}) {
+			border-left: 2px solid $dark-green;
+		}
+		@include responsive('min-width: #{$width-tablet}') {
+			border-top: 2px solid $dark-green;
+			flex-wrap: unset;
+		}
 	}
 	.list-anchor {
 		position: relative;
 		&:before {
 			position: absolute;
-			top: -10px;
+			@include responsive('min-width: #{$width-tablet}') {
+				top: -10px;
+			}
+			left: -10px;
 			height: 20px;
+			border-radius: 50%;
 		}
 	}
 	.list-item-wrapper {
-		display: inline-block;
+		
 		border-top: 0;
-		padding-top: 0;
 		@include responsive('min-width: #{$width-tablet}') {
-			flex: 1 1 auto;
+			display: inline-block;
+			padding-top: 0;
+			flex: 1 1 calc(100%/4);
 		}
 	}
 }
