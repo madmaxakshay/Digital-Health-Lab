@@ -3,9 +3,9 @@ landingPage:
 - sys:
     id: 2cQ8tbSkNn6VuHkLIThhSi
     created_at: !ruby/object:DateTime 2019-11-20 02:02:26.619000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-20 03:16:07.252000000 Z
+    updated_at: !ruby/object:DateTime 2019-11-26 20:08:22.122000000 Z
     content_type_id: landingPage
-    revision: 3
+    revision: 4
   title: Digital Health Lab
   url: "/"
   description: |-
@@ -61,16 +61,6 @@ landingPage:
         id: 1Rfq6GRYKeOHw4Y06u7Fg7
     - sys:
         id: 3mOPO68RG4kE9pJoAY6FAr
-  - sys:
-      id: 3WZTpfIJOGSgfA7HmsKj82
-      created_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-20 02:29:38.102000000 Z
-      content_type_id: section
-      revision: 1
-    title: Video
-    modules:
-    - sys:
-        id: 6OOxzVNE1i8En846bJCEwW
   - sys:
       id: 3PPrczlvmRKqvV7BBv0gtM
       created_at: !ruby/object:DateTime 2019-11-20 02:30:25.763000000 Z

@@ -32,7 +32,7 @@
 
 .page-section .p-header-container h2 {
 	font-weight: normal;
-    margin-top: 0;
+    margin-top: $space-medium;
     font-family: $font-stack-b;
 	color: $dark-green;
 	font-weight: 500;
@@ -69,12 +69,6 @@
 	max-width: $page-width;
 }
 
-@include responsive('min-width: #{$width-tablet}') {
-	.content-wrapper {
-	  margin: $space-small auto $space-large auto;
-	}
-}
-
 @media (min-width: 1px) and (max-width: #{$width-tablet}) {
 	.content-wrapper {
 		width: auto;
@@ -90,33 +84,16 @@
 .content-wrapper h2 {
 	position: relative;
 	color: $black;
-	text-align: center;
+	// text-align: center;
 	font-family: $font-stack-b;
 	font-weight: bold;
 	font-size: $medium-text;
 }
-@include responsive('min-width: #{$width-tablet}') {
-	.content-wrapper h2 {
-		padding-top: $space-small;
-		padding-bottom: $space-small;
-	}
-}
 
 // Type
 .lead {
-    font-family: $font-stack-b;
 	font-weight: normal;
-	font-size: $large-text;
-	line-height: $large-line-height;
-	text-align: center;
-}
-
-
-@media (min-width: 1px) and (max-width: #{$width-tablet}) {
-	.lead {
-		font-weight: normal;
-		font-size: $medium-text;
-	}
+	font-size: $medium-text/1.6;
 }
 
 .highlight {
