@@ -122,38 +122,22 @@
 		flex-wrap: unset;
 	}
 	.list-anchor {
-		// margin-right: $space-small/2;    
-		// color: transparent;
 		position: relative;
 		&:before {
-			// display: flex;
-			// content: '';
-			// background-color: $dark-green;
 			position: absolute;
 			top: -10px;
-			// width: 20px;
 			height: 20px;
 		}
 	}
 	.list-item-wrapper {
 		display: inline-block;
-		// margin-bottom: $space-small;
-		
+		border-top: 0;
+		padding-top: 0;
 		@include responsive('min-width: #{$width-tablet}') {
 			flex: 1 1 auto;
-			// padding-right: $space-small;
 		}
 	}
 }
-
-// .research-findings {
-// 	background-color: $black;
-// 	color: $white;
-// }
-
-// .misinfodemic-response-framework-toolkit {
-// 	background-color: $bright-green;
-// }
 
 .video {
 	h2 { color: $white; }

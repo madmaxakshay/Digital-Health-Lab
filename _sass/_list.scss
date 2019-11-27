@@ -5,11 +5,12 @@
 
 .list-item-wrapper {
     display: flex;
+    padding-top: $space-small/2;
     margin-bottom: $space-small;
-    
+    margin-right: $space-small;
+    border-top: 2px solid $dark-green; 
     @include responsive('min-width: #{$width-tablet}') {
-        flex: 1 0 50%;
-        padding-right: $space-small;
+        flex: 1 0 40%;
     }
 }
 
