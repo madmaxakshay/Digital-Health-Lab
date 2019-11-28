@@ -92,7 +92,7 @@
 
 .highlight {
 	padding: 4px;
-	background-color: $pale-red;
+	background-color: rgba($bright-orange, 0.5);
 	font-size: 150%;
 }
 
@@ -114,17 +114,30 @@
 
 // sections
 .what-we-do {
-	// background-color: $black;
-	// color: $white;
+	h2 {
+		color: $white;
+	}
+	// background-color: rgba($dark-green, 0.2);
+	background-color: $dark-green;
+	color: $white;
 	.list-wrapper {
 		display: flex;
 		@media (min-width: 1px) and (max-width: #{$width-tablet}) {
-			border-left: 2px solid $dark-green;
+			border-left: 2px solid $white;
 		}
 		@include responsive('min-width: #{$width-tablet}') {
-			border-top: 2px solid $dark-green;
+			border-top: 2px solid $white;
 			flex-wrap: unset;
 		}
+	}
+	.list-item {
+		color: $white;
+		.title {
+			color: $white;
+		}
+	}
+	.list {
+		margin-top: $space-small;
 	}
 	.list-anchor {
 		position: relative;
@@ -138,10 +151,10 @@
 			}
 			height: 20px;
 			border-radius: 50%;
+			background-color: $white;
 		}
 	}
 	.list-item-wrapper {
-		
 		border-top: 0;
 		@include responsive('min-width: #{$width-tablet}') {
 			display: inline-block;
@@ -159,6 +172,10 @@
 
 .press {
 	background-color: $vivid-blue;
+}
+
+.misinfodemic-response-toolkit {
+	background-color: $bright-green; 
 }
 
 .interested-in-learning-more {

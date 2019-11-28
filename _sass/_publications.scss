@@ -22,14 +22,14 @@
 
 .publication-text {
     padding: 0 $space-medium/3 $space-small/3;
-    height: 420px;
+    // height: 420px;
     overflow: hidden;
 }
 
 @include responsive('min-width: #{$width-tablet}') {
     .publication-text {
         padding: 0 $space-medium $space-small;
-        height: 550px;
+        // height: 550px;
     }
 }
 
@@ -54,7 +54,8 @@
     }
 }
 
-.publication-read-more, {
+.publication-read-more {
+    display: none;
     text-align: center;
     border-top: 2px solid $black;
     padding: $space-small/2 $space-medium;
