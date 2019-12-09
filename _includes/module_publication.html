@@ -7,6 +7,10 @@
         
         {% if module.link %}
             <a class="publication-link" href="{{ module.link }}">Read the report</a>
+        {% elsif module.pdf_file %}
+            {% for file in module.pdf_file %}
+            <a class="publication-link" href="{{ file.url }}">Read the report</a>
+            {% endfor %}
         {% else %}
             <span class="highlight">Coming soon!</span>
         {% endif %}
