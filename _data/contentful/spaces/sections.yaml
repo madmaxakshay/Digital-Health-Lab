@@ -59,9 +59,9 @@ section:
 - sys:
     id: 3uUNGsbLP0lEmTYpEigXvA
     created_at: !ruby/object:DateTime 2019-11-20 02:21:21.206000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-21 04:22:33.582000000 Z
+    updated_at: !ruby/object:DateTime 2019-12-10 15:28:47.628000000 Z
     content_type_id: section
-    revision: 3
+    revision: 6
   title: Misinfodemic Response Toolkit
   modules:
   - sys:
@@ -75,35 +75,31 @@ section:
   - sys:
       id: 3goXcGPGmLOBILsJjo8kay
       created_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
-      updated_at: !ruby/object:DateTime 2019-11-20 02:20:55.786000000 Z
+      updated_at: !ruby/object:DateTime 2019-12-10 15:34:26.487000000 Z
       content_type_id: modulePublication
-      revision: 1
-    title: " Health Equity through Health Fact-checking: A Primer "
-    description: "Misinfodemics, the idea that viral misinformation can facilitate
-      the spread of a particular health outcome or disease, are a public health issue
-      with significant momentum, bringing together interdisciplinary organizations
-      and researchers, media producers and distributors, technology companies, social
-      media platforms, and academic institutions around the world.\n\nAs these groups
-      attempt to address challenges surrounding the credibility, amplification and
-      equitable accessibility of quality online content - while reducing the impact
-      of problematic health misinformation - fact-checking is an increasingly central
-      part of the conversation. But can current fact-checking processes and outputs
-      actually work for a topic as complex as health? Do fact-checking outputs reach
-      the most vulnerable? Are these initiatives in their current form meeting the
-      needs of individuals disproportionately affected by health misinformation, including
-      populations in low socioeconomic environments, queer communities, and communities
-      of color? And if not, what are alternative solutions to addressing digital misinformation
-      in a topic area as critical as health?\n\nOur research highlights four key takeaways
-      for the public health advocacy, fact-checking and communications communities:
-      \n\n1. Fact-checking health topics requires adherence to and creation of public
-      health standards of care that differ from dominant fact-checking frameworks.\n2.
-      Biases in what gets selected for fact-checked content reflects limited newsroom
-      and organizational resources. \n3. Already vulnerable communities stand at greatest
-      risk of further marginalization and compromised safety. \n4. Health audiences
-      need a new fact-checking workflow that requires more targeted, tailored and
-      practical information without compromising their safety or privacy. \n\nIn this
-      primer, we address key questions about the research behind and efficacy of health-focused
-      fact-checking, forming the basis of a Do No Harm misinfodemic response framework."
+      revision: 9
+    title: '<a name="toolkit-primer"></a> Health Equity Through Health Fact-checking:
+      A Primer '
+    description: "The world now has more internet users than people with access to
+      essential health services such as primary care, dental care, or surgery. As
+      the ease of online connectivity increases, we should expect more and more individuals
+      to use online content as a primary source of sometimes critical health information.
+      With limited availability of in-person health providers or services for certain
+      health conditions, the internet plays a crucial role in mediating access to
+      health - and fact-checking is increasingly a part of that conversation. Strengthening
+      the infrastructure and resources that fact-checkers need to adequately address
+      high risk, low-quality health content must be a priority. \n\nIn this primer,
+      we highlight the importance of standardized sets of principles to optimize for
+      fact-checks that translate into improved health literacy and positive health
+      outcomes, and don’t exacerbate mistrust, inequalities or risks.\n"
+    pdf_file:
+    - sys:
+        id: 7f0A1XeMOZGtanRs7szOD2
+        created_at: !ruby/object:DateTime 2019-12-09 00:40:55.010000000 Z
+        updated_at: !ruby/object:DateTime 2019-12-09 21:45:50.469000000 Z
+      title: 'Health Equity Through Health Fact-Checking:  A Primer'
+      description: 
+      url: "//assets.ctfassets.net/f5serhu68qd4/7f0A1XeMOZGtanRs7szOD2/4adc2aa2e3b2a1e358dbefeb63ad7201/Health_Equity_through_Health_Fact-Checking__A_Primer.pdf"
   - sys:
       id: 1NaazVfLPrcx3BX5wpImMc
       created_at: !ruby/object:DateTime 2019-11-20 02:21:18.185000000 Z

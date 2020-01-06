@@ -33,7 +33,8 @@
 	}
 }
 
-.contact-form input {
+.contact-form input, 
+.contact-form textarea {
 	display: block;
 	border: 0;
 	margin: 0;
@@ -60,11 +61,23 @@
 	}
 }
 
+.contact-form textarea {
+	padding-top: 3vw;
+	line-height: 1;
+}
+
+
 @media (min-width: 1px) and (max-width: #{$width-tablet}) {
-	.contact-form input {
-		font-size: 6vw;
+	.contact-form input,
+	.contact-form textarea {
+		font-size: 4vw;
 		line-height: 16vw;
 		height: 16vw;
+	}
+
+
+	.contact-form textarea {
+		line-height: 1;
 	}
 }
 

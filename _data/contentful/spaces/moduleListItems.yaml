@@ -12,30 +12,34 @@ moduleListItem:
 - sys:
     id: 2h6E3vFsxaxYXXvZOXGdHf
     created_at: !ruby/object:DateTime 2019-11-22 00:52:48.644000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-22 00:52:48.644000000 Z
+    updated_at: !ruby/object:DateTime 2019-12-06 23:39:30.717000000 Z
     content_type_id: moduleListItem
-    revision: 1
+    revision: 2
   title: building a community
-  description: of health practitioners, researchers, journalists, activists and end-users
-    actively engaged in reducing health misinformation, to support fact-checking organizations
-    and to ensure that health content online is engaging, relevant and accessible.
+  description: of health practitioners, researchers, journalists, and activists and
+    end-users actively engaged in reducing health misinformation, to support fact-checking
+    organizations and to ensure that health content online is engaging, relevant,
+    safe and accessible.
 - sys:
     id: 4iylkgQRlXQuk1LiGdqA1o
     created_at: !ruby/object:DateTime 2019-11-22 00:52:51.585000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-22 00:52:51.585000000 Z
+    updated_at: !ruby/object:DateTime 2019-12-06 23:47:14.647000000 Z
     content_type_id: moduleListItem
-    revision: 1
-  title: hosting misinfodemic response exercises
-  description: 'preparing practitioners for complex and common digital health misinformation
-    threats and scenarios, and co-designing new response pathways. '
+    revision: 2
+  title: co-designing "do no harm" best practices
+  description: 'preparing practitoners with a set of principles, processes and approaches
+    for health communications and corrections that align with established public health
+    standards of care, and are specific to the distinct and significant risks associated
+    with health misinformation. '
 - sys:
     id: bhfBoEZkD5oskKMntInos
     created_at: !ruby/object:DateTime 2019-11-22 00:52:54.759000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-22 00:52:54.759000000 Z
+    updated_at: !ruby/object:DateTime 2019-12-06 23:48:53.052000000 Z
     content_type_id: moduleListItem
-    revision: 1
-  title: documenting best practices and sharing resources
-  description: 'for designing equity-centered health communications outputs. '
+    revision: 2
+  title: hosting gatherings & sharing resources
+  description: 'for designing equity-centered health communications outputs and strengthening
+    misinfodemic response efforts. '
 - sys:
     id: HB39IqH9VEoX498Aup6hk
     created_at: !ruby/object:DateTime 2019-11-22 00:53:17.718000000 Z
@@ -67,17 +71,13 @@ moduleListItem:
 - sys:
     id: 6mArteK9UwebD8JVRDCYD3
     created_at: !ruby/object:DateTime 2019-11-22 00:53:17.736000000 Z
-    updated_at: !ruby/object:DateTime 2019-11-22 00:53:17.736000000 Z
+    updated_at: !ruby/object:DateTime 2019-12-06 23:54:11.398000000 Z
     content_type_id: moduleListItem
-    revision: 1
-  title: Misinfodemic Preparedness
-  description: Misinfodemic simulation exercises are an essential tool for preparing
-    practitioners for complex and common digital health misinformation threats and
-    scenarios. This work serves to develop, facilitate, and provide resources for
-    implementing collaborative digital health misinformation responses across sectors
-    that align with the safety, privacy, efficacy, and access standards  representative
-    of public health duties of care, and to enhance preparedness and response capacities
-    for organizations around the world.
+    revision: 2
+  title: Misinfodemic Response
+  description: |-
+    Ensuring efficacious misinfodemic response involves preparing practitioners for addressing complex digital health misinformation, a special category
+    of information with specific and serious associated risks. This work serves to develop, facilitate, and provide resources for implementing collaborative digital health misinformation responses across sectors that align with the safety, privacy, efficacy, and access standards representative of public health duties of care, and to enhance preparedness capacity for organizations around the world.
 - sys:
     id: 1q7mNkjYqkpgBSA0fWX3UB
     created_at: !ruby/object:DateTime 2019-11-22 00:53:17.769000000 Z
