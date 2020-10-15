@@ -23,9 +23,9 @@ And run `source ~/.bashrc` or open new terminal to enable changes.
 
 ## Page Generation from Contentful Data
 
-To generate pages in Jekyll based on Contentful data we are using the [jekyll-datapage_gen](https://github.com/avillafiorita/jekyll-datapage_gen) plugin. Specify in `_config.yml` the data files for which you want individual page to be generated. See plugin's documentation and our `config.yml` for the settings.
+1. To generate pages in Jekyll based on Contentful data we are using the [jekyll-datapage_gen](https://github.com/avillafiorita/jekyll-datapage_gen) plugin. Specify in `_config.yml` the data files for which you want individual page to be generated. See plugin's documentation and our `config.yml` for the settings.
 
-All landing page is generated using the `landing.html` layout template based on the entries in `landingPages.yaml` that were imported from Contentful.
+2. All landing page is generated using the `landing.html` layout template based on the entries in `landingPages.yaml` that were imported from Contentful.
 
 ## Deploy settings on Netlify
 
